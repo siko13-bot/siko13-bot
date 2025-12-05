@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sikolethu Mkhabela, my friends call me Siko.
 
-<!--
-**siko13-bot/siko13-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about learning new technologies and playing video games as well as reading pyschological thrillers
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- Currently doing my Bsc IT undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Next js, HTML, CSS, Javascript, Php
+
+## 💻 Tech Stack
+- Languages: [C++, Python, JavaScript, Java and PHP]
+- Frameworks: [React, Next js]
+- Tools: [ Git, VS Code]
+
+## 📫 How to Reach Me
+- Email: sikomkhabela@gmail.com
+- LinkedIn: [your-linkedin-url]
+
+## ⚡ Fun Fact
+I enjoy reading books
