@@ -16,7 +16,7 @@ I'm passionate about learning new technologies and playing video games as well a
 
 ## 📫 How to Reach Me
 - Email: sikomkhabela@gmail.com
-- LinkedIn: [[your-linkedin-url]](https://www.linkedin.com/in/sikolethu-mkhabela-08ab85296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4cf0gJDmRdivHpRdaQJgQA%3D%3D)
+- LinkedIn: (https://www.linkedin.com/in/sikolethu-mkhabela-08ab85296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4cf0gJDmRdivHpRdaQJgQA%3D%3D)
 
 ## ⚡ Fun Fact
 I enjoy reading books
